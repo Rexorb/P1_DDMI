@@ -1,5 +1,5 @@
 # p1ddmi
-Projeto de Avaliação da P1 de Dispositivos Moveis.
+Projeto de Avaliação da P1 de Dispositivos Moveis (Jogo da Velha).
 
 ## Getting Started
 
