@@ -1,6 +1,5 @@
 # p1ddmi
-
-A new Flutter project.
+Projeto de Avaliação da P1 de Dispositivos Moveis.
 
 ## Getting Started
 
